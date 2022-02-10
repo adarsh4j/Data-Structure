@@ -10,7 +10,9 @@ int isempty()
 
 {
 
-	if(front == -1)		return 1;
+	if(front == -1)		
+	
+	return 1;
 
 	else
 
