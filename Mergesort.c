@@ -1,3 +1,4 @@
+// About Merge sort //
 #include<stdio.h>
 void read(int [],int);
 void mergesort(int [],int,int);
